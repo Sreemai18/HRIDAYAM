@@ -18,14 +18,15 @@ Calming interface, motivational quotes, and categorization tools (e.g., Urgent v
 Secure session management with user login and logout features.
 
 🧭 How to Run Locally
+
 Clone the repo
 git clone https://github.com/Sreemai18/Hridayam.git
 cd Hridayam
 
 Install dependencies
+
 pip install flask requests
+
 Run the app
 
-nginx
-Copy code
 python app.py
